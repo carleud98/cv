@@ -1,0 +1,14 @@
+body {
+  background-color: gray;
+  text-align: center;
+  border: 1px solid black;
+}
+
+h1 {
+  color: blue;
+  font-family: monospace;
+}
+
+h3 {
+  font-family: cursive;
+}
